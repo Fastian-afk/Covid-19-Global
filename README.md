@@ -69,7 +69,7 @@ This project performs an end-to-end **Exploratory Data Analysis (EDA)** and buil
    pip install pandas numpy matplotlib seaborn scikit-learn
    df = pd.read_csv('your_dataset_path.csv')
    python covid_analysis.py
-Here you go — the entire **README** content compiled cleanly for direct copy-paste:
+
 
 ---
 
